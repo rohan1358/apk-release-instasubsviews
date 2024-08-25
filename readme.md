@@ -1,3 +1,4 @@
+<p align="center">
 <img src="./images/home.png" alt="home" width="200"/>
 <img src="./images/earn.png" alt="earn" width="200"/>
 <img src="./images/store.png" alt="store" width="200"/>
@@ -7,3 +8,4 @@
 <img src="./images/modal-buy-subs.png" alt="modal buy subs" width="200"/>
 <img src="./images/subs4subs.png" alt="Home" width="200"/>
 <img src="./images/withdrawal.png" alt="withdrawal" width="200"/>
+</p>
