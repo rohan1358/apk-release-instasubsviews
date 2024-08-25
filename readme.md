@@ -1,3 +1,4 @@
+<img src="./images/home.png" alt="Home" width="200"/>
 ![Home](/images/home.png)
 ![earn](/images/earn.png)
 ![store](/images/store.png)
